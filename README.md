@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interested in using Stack Overflow data from 2017 to better understand:
 
 1. How other developers suggested breaking into the field (what education to pursue)?
 2. What factors about an individual contributed to salary?
@@ -22,6 +22,8 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 5. How were bootcamps assisting with increasing diversity in tech careers?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+
+Alan made a small change to test this out.
 
 
 ## File Descriptions <a name="files"></a>
